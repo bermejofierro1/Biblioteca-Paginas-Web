@@ -17,10 +17,10 @@ import com.mongodb.client.MongoDatabase;
 
 public class MongoSession {
 
-	private static final String USER = "pagWeb";
-	private static final String PASS = "pagWeb";
-	private static final String DATABASE = "PagWeb";
-	private static final String SERVER = "pagweb.huvr1qa.mongodb.net";
+	private static final String USER = "";
+	private static final String PASS = "";
+	private static final String DATABASE = "";
+	private static final String SERVER = "..mongodb.net";
 	
 	private static MongoDatabase database;
 	
